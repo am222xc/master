@@ -1,1 +1,1 @@
-record price (double price ,int quantity) {}
+record price (double price ,int quantity, int code) {}
